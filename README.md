@@ -44,14 +44,18 @@ En este proyecto hemos usado tres diferentes lenguajes para que pueda funcionar 
 
 ## COLABORADORES
 
+Squad #3.1 
+- Aymee Fernández
+- Gina Peña 
+
 ## FUENTES CONSULTADAS
-https://developer.mozilla.org/en-US/
-https://sweetalert2.github.io/#icons
-https://cssgradient.io/
-https://www.w3schools.com/
-https://fonts.google.com/
-https://www.bestcssbuttongenerator.com/
-https://medium.com/@ruthsalvador/actualizando-mi-onclick-con-addeventlistener-834da5c74b06
-https://lenguajecss.com/css/modelo-de-cajas/que-es/
-https://stackoverflow.com/questions/9618504/how-to-get-the-selected-radio-button-s-value
+<br> https://developer.mozilla.org/en-US/ </br>
+<br> https://sweetalert2.github.io/#icons </br>
+<br> https://cssgradient.io/ </br>
+<br> https://www.w3schools.com/ </br>
+<br> https://fonts.google.com/ </br>
+<br> https://www.bestcssbuttongenerator.com/ </br>
+<br> https://medium.com/@ruthsalvador/actualizando-mi-onclick-con-addeventlistener-834da5c74b06</br>
+<br> https://lenguajecss.com/css/modelo-de-cajas/que-es/ </br>
+<br> https://stackoverflow.com/questions/9618504/how-to-get-the-selected-radio-button-s-value</br>
 

@@ -7,7 +7,7 @@ El Proyecto de trivia esta diseñado en la categoria de HISTORIA UNIVERSAL donde
 La pantalla principal esta diseñada de forma interactiva para el usuario, se pueda identificar y a la vez sienta un calido mensaje de bienvenida.
  
   
-### PREGUNTAS
+## PREGUNTAS
 
 
 En esta sección el jugador podrá encontrar tres preguntas, cada una con cuatro alternativas respectivamente. Al escoger una respuesta y presionar el botón <strong> siguiente pregunta </strong>, mostrará una <strong> ventana emergente </strong> que le permitirá saber si su respuesta fue correcta o incorrecta, así mismo, el jugador será automaticamente dirigio hacia la siguiente pregunta. <br>
@@ -41,4 +41,17 @@ En este proyecto hemos usado tres diferentes lenguajes para que pueda funcionar 
 - [JavaScript] - Para hacer interactividad con esa información.
 - [CSS] - Para diseñar la información.
 
+
+## COLABORADORES
+
+## FUENTES CONSULTADAS
+https://developer.mozilla.org/en-US/
+https://sweetalert2.github.io/#icons
+https://cssgradient.io/
+https://www.w3schools.com/
+https://fonts.google.com/
+https://www.bestcssbuttongenerator.com/
+https://medium.com/@ruthsalvador/actualizando-mi-onclick-con-addeventlistener-834da5c74b06
+https://lenguajecss.com/css/modelo-de-cajas/que-es/
+https://stackoverflow.com/questions/9618504/how-to-get-the-selected-radio-button-s-value
 

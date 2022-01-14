@@ -7,16 +7,20 @@ El Proyecto de trivia esta diseñado en la categoria de HISTORIA UNIVERSAL donde
   
   ### PREGUNTAS
 <img src="https://pbs.twimg.com/profile_images/600831927042510848/oe1zjCC8_400x400.jpg" alt="" >
+
+
 1. ¿En qué país nació Adolf Hitler?
 - Alemania
 - Peru
 - Austria
 - Polonia 
+
 3. ¿Cómo se llamó el primer presidente de Estados Unidos?
 - Franklin Roosevelt
 - Thomas Jefferson
 - George Washington
 - Abraham Lincoln
+
 4. ¿En qué año se terminó la Segunda Guerra Mundial?
 - 1825
 - 1945

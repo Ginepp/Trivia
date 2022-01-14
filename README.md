@@ -64,8 +64,8 @@ Squad #3.1
 Cuando nos hablaron del proyecto, nos imaginamos algo como esto, nuestras expectativas eran altas. 
 <img src="https://i.ibb.co/QCW2TcZ/2.png" alt="2" border="0">
 
-Se fue estructurando el proyecto y quedo muy diferente a la imagen de referencia que teniamos en mente, pero felices porque estaba tomando forma.
-<img src="https://i.ibb.co/h1sM5f7/3.png" alt="3" border="0">
+Se fue estructurando el proyecto y quedo muy diferente a la imagen de referencia que teniamos en mente pero felices porque estaba tomando forma.
+<a href="https://ibb.co/tPBhfXm"><img src="https://i.ibb.co/h1sM5f7/3.png" alt="3" border="0"></a>
 
 Le agregamos color de fondo y su aspecto fue cambiando.
 <img src="https://i.ibb.co/jMwx1v6/Imagen3.png" alt="Imagen3" border="0">

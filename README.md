@@ -5,7 +5,9 @@
   
   
   ## PREGUNTAS
+  
 <img src="https://pbs.twimg.com/profile_images/600831927042510848/oe1zjCC8_400x400.jpg" alt="" >
+
 1. ¿En qué país nació Adolf Hitler?
 - Alemania
 - Peru

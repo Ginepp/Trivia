@@ -12,7 +12,7 @@ La pantalla principal esta diseñada de forma interactiva para el usuario
 
 
 En esta sección el jugador podrá encontrar tres preguntas, cada una con cuatro alternativas respectivamente. Al escoger una respuesta y presionar el botón <strong> siguiente pregunta </strong>, obtendrá un <strong> alert </strong> que le permitirá saber si su respuesta fue correcta o incorrecta, así mismo, el jugador será automaticamente dirigio hacia la siguiente pregunta. <br>
-<<FONT COLOR="red">NOTA:</FONT> Si el jugador no ha seleccionado ninguna respuesta, se generará un <strong> alert </strong> para avisarle que debe marcar una opción para poder seguir jugando.
+<FONT COLOR="red">NOTA:</FONT> Si el jugador no ha seleccionado ninguna respuesta, se generará un <strong> alert </strong> para avisarle que debe marcar una opción para poder seguir jugando.
 
 
 1. ¿En qué país nació Adolf Hitler?

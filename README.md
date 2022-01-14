@@ -4,8 +4,8 @@
 <img src="https://es.seaicons.com/wp-content/uploads/2016/07/Globe-Connected-icon.png" alt=""> 
 El Proyecto de trivia esta diseñado en la categoria de HISTORIA UNIVERSAL donde se decidio trabajar 3 preguntas con opciones multiples, donde el jugador pondra a prueba sus conocimientos basicos en este categoria. 
 
-La pantalla principal esta diseñada de forma interactiva para el usuario
-<img src="https://i.ibb.co/SsRBwLW/Screenshot-1.png" alt="Screenshot-1" border="0">   
+La pantalla principal esta diseñada de forma interactiva para el usuario, se coloco 
+ 
 
   
 ### PREGUNTAS
@@ -17,32 +17,9 @@ En esta sección el jugador podrá encontrar tres preguntas, cada una con cuatro
 
 1. ¿En qué país nació Adolf Hitler?
 
-<img src="https://pbs.twimg.com/profile_images/600831927042510848/oe1zjCC8_400x400.jpg" alt="" >
-
-
-- Alemania
-- Peru
-- Austria
-- Polonia 
-
 3. ¿Cómo se llamó el primer presidente de Estados Unidos?
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfWyytormAr9eouy9XV7m5AsBd3mXJjKaGsA&usqp=CAU" alt="" >
-
-- Franklin Roosevelt
-- Thomas Jefferson
-- George Washington
-- Abraham Lincoln
-
-
 4. ¿En qué año se terminó la Segunda Guerra Mundial?
-
-<img src="https://external-preview.redd.it/njwzdAUmdfTAuTnYksKw8ifpSEwwXmoZeVV33XTyRHM.jpg?auto=webp&s=d6b7e6b1727f41a51fb772a56334c787b0ffd0a9" alt="" >
-
-- 1825
-- 1945
-- 1915
-- 1980
 
 ## SCORE 
 

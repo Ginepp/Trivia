@@ -2,10 +2,10 @@
 ## ¿QUÉ TANTO SABES DE HISTORIA UNIVERSAL?
 
 <img src="https://es.seaicons.com/wp-content/uploads/2016/07/Globe-Connected-icon.png" alt=""> 
-El Proyecto de trivia esta diseñado en la categoria de HISTORIA UNIVERSAL donde se decidio trabajar 3 preguntas con opciones multiples 
+El Proyecto de trivia esta diseñado en la categoria de HISTORIA UNIVERSAL donde se decidio trabajar 3 preguntas con opciones multiples, donde el jugador pondra a prueba sus conocimientos basicos en este categoria   
 
   
-  ### PREGUNTAS
+### PREGUNTAS
 <img src="https://pbs.twimg.com/profile_images/600831927042510848/oe1zjCC8_400x400.jpg" alt="" >
 
 

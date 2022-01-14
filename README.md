@@ -25,6 +25,13 @@ En esta sección el jugador podrá encontrar tres preguntas, cada una con cuatro
 
 En la última parte de nuestro proyecto, aparece un pequeño mensaje dirigido hacia el jugador, agradeciendole por jugar y mostrandole su <strong> score </strong>. <BR>
 Añadimos un boton de <strong> volver a jugar </strong>, el cual redirige al jugador a la página principal.
+ 
+ ## ¿CÓMO JUGAR?
+ 
+1. Ingresa tu nombre
+2. Acepta el alert de bienvenida
+3. Lee cuidadosamente las preguntas y marca las respuesta correctas
+5. Una vez finalizado, obten tu puntaje y si deseas volver a intentarlo, haz click en el boton "volver a jugar".
 
 
 ## Tecnologias

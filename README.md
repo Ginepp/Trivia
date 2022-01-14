@@ -59,3 +59,16 @@ Squad #3.1
 <br> https://lenguajecss.com/css/modelo-de-cajas/que-es/ </br>
 <br> https://stackoverflow.com/questions/9618504/how-to-get-the-selected-radio-button-s-value</br>
 
+## PROCESO  DEL TRABAJO
+
+Cuando nos hablaron del proyecto, nos imaginamos algo como esto, nuestras expectativas eran altas. 
+<img src="https://i.ibb.co/QCW2TcZ/2.png" alt="2" border="0">
+
+Se fue estructurando el proyecto y quedo muy diferente a la imagen de referencia que teniamos en mente, pero felices porque estaba tomando forma.
+<img src="https://i.ibb.co/h1sM5f7/3.png" alt="3" border="0">
+
+Le agregamos color de fondo y su aspecto fue cambiando.
+<img src="https://i.ibb.co/jMwx1v6/Imagen3.png" alt="Imagen3" border="0">
+
+<img src="https://i.ibb.co/28gvZ7c/Imagen9.png" alt="Imagen9" border="0"><
+

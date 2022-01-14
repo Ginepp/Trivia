@@ -62,13 +62,49 @@ Squad #3.1
 ## PROCESO  DEL TRABAJO
 
 Cuando nos hablaron del proyecto, nos imaginamos algo como esto, nuestras expectativas eran altas. 
-<img src="https://i.ibb.co/QCW2TcZ/2.png" alt="2" border="0">
+<br> <img src="https://i.ibb.co/QCW2TcZ/2.png" alt="2" border="0"> </br>
 
-Se fue estructurando el proyecto y quedo muy diferente a la imagen de referencia que teniamos en mente pero felices porque estaba tomando forma.
-<a href="https://ibb.co/tPBhfXm"><img src="https://i.ibb.co/h1sM5f7/3.png" alt="3" border="0"></a>
+
+Se fue estructurando el proyecto y quedo muy diferente a la imagen de referencia que teniamos en mente pero felices porque estaba tomando forma. 
+ <br> <img src="https://i.ibb.co/BG6W46r/Imagen4.png" alt="Imagen4" border="0"> </br>
 
 Le agregamos color de fondo y su aspecto fue cambiando.
-<img src="https://i.ibb.co/jMwx1v6/Imagen3.png" alt="Imagen3" border="0">
+<img src="https://i.ibb.co/tQhDm8r/Imagen7.png" alt="Imagen7" border="0">
 
-<img src="https://i.ibb.co/28gvZ7c/Imagen9.png" alt="Imagen9" border="0"><
 
+Intentamos usar conceptos que habíamos visto en el pre-trabajo como el "'/n'" para poder mover el botón a la siguiente línea, no funcionó. Ademáas, al comenzar el proyecto teníamos solo 5 documentos.
+
+<img src="https://i.ibb.co/G0SthP3/Imagen4.png" alt="Imagen4" border="0"> 
+
+
+Después de lograr poner el botón, nuestro siguiente objetivo fue darle estilo con el CSS. 
+
+<img src="https://i.ibb.co/r0Dvgys/Imagen5.png" alt="Imagen5" border="0">
+
+
+Logramos mover el botón:
+
+<img src="https://i.ibb.co/PjK4rRh/Imagen6.png" alt="Imagen6" border="0"> 
+
+
+Para indicar el resultado de la respuesta creamos un alert, después de algunos tutoriales lo logramos: 
+
+<img src="https://i.ibb.co/4MjNN1k/Imagen7.png" alt="Imagen7" border="0"> 
+
+
+Cuando nos equivocabamos, escribíamos en el código para ver si la otra se daba cuenta:
+<img src="https://i.ibb.co/hYcwCKn/Imagen8.png" alt="Imagen8" border="0"> 
+
+
+Encontramos una nueva forma de poner un alert que se veía mejor: 
+
+<img src="https://i.ibb.co/28gvZ7c/Imagen9.png" alt="Imagen9" border="0"> 
+
+
+Buscamos más ejemplos para guiarnos, nuestras expectativas eran muy altas otra vez. Al primer intento, obtuvimos esto: 
+
+<img src="https://i.ibb.co/f8yh13Q/Imagen10.png" alt="Imagen10" border="0"> 
+
+
+Luego de la ultima asesoria, corregimos el ultimo error:
+<img src="https://i.ibb.co/8bX50d8/Imagen11.png" alt="Imagen11" border="0">
